@@ -568,7 +568,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 -   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 -   [BGL - Boost Graph Library](https://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
--   [igraph](https://igraph.org/) - C library of network analysis tools; also exists as packages for Python and R.
+-   [igraph](https://igraph.org/) - C library of network analysis tools; also exists as packages for Python, R and Mathematica.
 -   [MapEquation](https://www.mapequation.org/) - C++ code for the Infomap method of multilevel community detection.
 -   [Louvain Method](https://sites.google.com/site/findcommunities/) - C++ code for the [Louvain multi-level community detection algorithm](https://arxiv.org/abs/0803.0476).
 -   [networks.tb](https://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
